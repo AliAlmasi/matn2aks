@@ -1,2 +1,2 @@
-# text2img
-make image from text
+# matn2aks
+sakht aks az matn
